@@ -1,1 +1,3 @@
 Hello I'm learning Git and Github
+
+Adding feature 1
