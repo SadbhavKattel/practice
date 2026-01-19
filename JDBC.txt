@@ -1,0 +1,8 @@
+Seven Steps to Connect to Database
+1. import java.sql
+2. load and register driver-> com.mysql.jdbc. (download)
+3.create a connection 
+4. create a statement
+5. execute query
+6. process result
+7. close
